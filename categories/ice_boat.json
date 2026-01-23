@@ -1,1 +1,30 @@
-{}
+{
+  "Ubrania": [
+    "Bielizna termoaktywna",
+    "Kurtka zimowa",
+    "Spodnie zimowe",
+    "Czapka",
+    "Rękawiczki narciarskie",
+    "Grube skarpety",
+    "Ubranie na zmianę"
+  ],
+  "Ochrona": [
+    "Kask",
+    "Gogle narciarskie"
+  ],
+  "Jedzenie i picie": [
+    "Woda",
+    "Przekąski energetyczne",
+    "Termos z ciepłym napojem"
+  ],
+  "Inne": [
+    "Chusteczki",
+    "Powerbank"
+  ],
+  "Kamera sportowa": [
+    "Kamera",
+    "Akusy",
+    "Akcesoria",
+    "Dysk SSD"
+  ]
+}
