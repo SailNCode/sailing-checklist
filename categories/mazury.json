@@ -1,19 +1,13 @@
 {
-  "dokumenty": [
-    "Patent żeglarski"
+  "Dokumenty": [
+    "Monety do toalet i prysznicy"
   ],
-  "ubrania": [
-    "Bielizna termoaktywna",
-    "Kurtka przeciwdeszczowa",
-    "Komin",
-    "Czapka z daszkiem"
+  "Ubrania": [
+    "Kalosze",
+    "Kąpielówki"
   ],
-  "ochrona_przed_słońcem": [
-    "Krem UV do twarzy",
-    "Krem UV"
-  ],
-  "akcesoria_żeglarskie": [
-    "Zestaw żeglarski",
-    "Książka żeglarska"
+  "Inne": [
+    "Śpiwór",
+    "Poduszka do spania"
   ]
 }

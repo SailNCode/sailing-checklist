@@ -1,14 +1,22 @@
 {
-  "dokumenty": [
-    "Kartka Revolut",
-    "Paszport",
+  "Dokumenty": [
     "Dowód",
     "Gotówka",
-    "EKUZ",
-    "ISIC"
+    "Patent żeglarski",
+    "Legitymacja studencka"
   ],
-  "kosmetyczka": [
+  "Ubrania": [
+    "Bielizna termoaktywna",
+    "Kurtka przeciwdeszczowa / Sztormiak",
+    "Spodnie przeciwdeszczowa",
+    "Komin",
+    "Czapka z daszkiem"
+  ],
+  "Kosmetyczka": [
+    "Szczoteczka",
+    "Pasta do zębów",
     "Żel pod prysznic",
+    "Dezodorant",
     "Szampon",
     "Odżywka",
     "Maszynka do golenia",
@@ -16,56 +24,22 @@
     "Papier nawilżany",
     "Patyczki do uszu"
   ],
-  "zdrowie": [
-    "Olej CBD",
-    "Minovivax",
+  "Zdrowie": [
     "Octenisept",
-    "Suplementy",
-    "Bufomix easyhaler",
-    "Plastry",
-    "Aviomarin",
-    "Tabletki na alergię",
-    "Krem do rąk",
-    "Coś na gardło"
+    "Coś na gardło",
+    "Krem UV"
   ],
-  "elektronika": [
-    "Słuchawki",
+  "Elektronika": [
     "Czołówka",
-    "Rozgałęziacz",
-    "Kamera sportowa",
-    "Kamera",
-    "Akusy",
-    "Dysk SSD"
-  ],
-  "jedzenie": [
-    "Kabanosy",
-    "Orzechy",
-    "Prowiant"
-  ],
-  "akcesoria": [
-    "Nerka",
-    "Okulary przeciwsłoneczne",
-    "Maska do spania"
-  ],
-  "inne": [
-    "Kłódeczka",
-    "Zeszyt i piórnik",
-    "Spinacze do ubrań",
-    "Gry",
-    "Poduszka do samochodu",
-    "Chusteczki",
-    "Karabińczyk",
-    "Torba strefa bezcłowa"
-  ],
-  "ostatniego_dnia": [
-    "Termos",
-    "Szczoteczka",
-    "Pasta do zębów",
-    "Dezodorant",
-    "Klapki",
-    "Czytnik",
-    "Laptop",
-    "Ładowarki",
     "Powerbank"
+  ],
+  "Akcesoria": [
+    "Okulary przeciwsłoneczne",
+    "Klapki"
+  ],
+  "Inne": [
+    "Ładowarki",
+    "Gry karciane/planszowe",
+    "Ręcznik szybkoschnący"
   ]
 }

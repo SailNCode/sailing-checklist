@@ -1,16 +1,9 @@
 {
-  "ochrona_przed_słońcem": [
-    "Krem UV do twarzy",
-    "Krem UV",
-    "Czapka z daszkiem"
-  ],
-  "ubrania": [
+  "Ubrania": [
     "Kąpielówki"
   ],
-  "akcesoria_wodne": [
+  "Akcesoria": [
     "Buty do wody",
-    "Okulary do pływania",
-    "Ręcznik szybkoschnący",
-    "Stopery do uszu"
+    "Okulary do pływania"
   ]
 }
