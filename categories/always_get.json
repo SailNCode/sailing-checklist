@@ -1,0 +1,71 @@
+{
+  "dokumenty": [
+    "Kartka Revolut",
+    "Paszport",
+    "Dowód",
+    "Gotówka",
+    "EKUZ",
+    "ISIC"
+  ],
+  "kosmetyczka": [
+    "Żel pod prysznic",
+    "Szampon",
+    "Odżywka",
+    "Maszynka do golenia",
+    "Pianka do golenia",
+    "Papier nawilżany",
+    "Patyczki do uszu"
+  ],
+  "zdrowie": [
+    "Olej CBD",
+    "Minovivax",
+    "Octenisept",
+    "Suplementy",
+    "Bufomix easyhaler",
+    "Plastry",
+    "Aviomarin",
+    "Tabletki na alergię",
+    "Krem do rąk",
+    "Coś na gardło"
+  ],
+  "elektronika": [
+    "Słuchawki",
+    "Czołówka",
+    "Rozgałęziacz",
+    "Kamera sportowa",
+    "Kamera",
+    "Akusy",
+    "Dysk SSD"
+  ],
+  "jedzenie": [
+    "Kabanosy",
+    "Orzechy",
+    "Prowiant"
+  ],
+  "akcesoria": [
+    "Nerka",
+    "Okulary przeciwsłoneczne",
+    "Maska do spania"
+  ],
+  "inne": [
+    "Kłódeczka",
+    "Zeszyt i piórnik",
+    "Spinacze do ubrań",
+    "Gry",
+    "Poduszka do samochodu",
+    "Chusteczki",
+    "Karabińczyk",
+    "Torba strefa bezcłowa"
+  ],
+  "ostatniego_dnia": [
+    "Termos",
+    "Szczoteczka",
+    "Pasta do zębów",
+    "Dezodorant",
+    "Klapki",
+    "Czytnik",
+    "Laptop",
+    "Ładowarki",
+    "Powerbank"
+  ]
+}
