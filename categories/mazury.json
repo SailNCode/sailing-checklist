@@ -4,10 +4,16 @@
   ],
   "Ubrania": [
     "Kalosze",
-    "Kąpielówki"
+    "Strój kąpielowy",
+    "Polar"
+  ],
+  "Zdrowie": [
+    "Spray na komary"
   ],
   "Inne": [
     "Śpiwór",
-    "Poduszka do spania"
+    "Poduszka do spania",
+    "Przedłużacz",
+    "Ładowarka samochodowa"
   ]
 }

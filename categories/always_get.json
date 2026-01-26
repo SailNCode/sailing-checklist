@@ -19,12 +19,22 @@
     "Dezodorant",
     "Szampon",
     "Odżywka",
-    "Maszynka do golenia",
-    "Pianka do golenia",
+    "Obcinaczka do paznokci",
+    "Maszynka do golenia_m",
+    "Pianka do golenia_m",
     "Papier nawilżany",
-    "Patyczki do uszu"
+    "Patyczki do uszu",
+    "Tampony_f",
+    "Podpaski_f"
+  ],
+  "Uroda": [
+    "Makijaż_f",
+    "Demakijaż_f",
+    "Płatki do demakijażu_f",
+    "Gumki do włosów_f"
   ],
   "Zdrowie": [
+    "Leki przeciwbólowe",
     "Octenisept",
     "Coś na gardło",
     "Krem UV",
